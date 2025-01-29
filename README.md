@@ -2,6 +2,8 @@
 
 An Interactive Floating Network Animation
 
+https://balavamsi.netlify.app/ 
+
 ## Overview
 
 This project implements an interactive floating network animation using HTML5 Canvas, JavaScript, and Bootstrap for styling. The animation dynamically creates nodes and connects them with vertices, providing a visually appealing network effect.
